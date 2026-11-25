@@ -52,7 +52,19 @@ The table uses a responsive layout with horizontal scrolling on smaller screens.
 
 ## Screenshots
 
-Screenshots of the desktop view, mobile view, empty state, and error state will be added here.
+## Screenshots
+
+### Desktop View
+![Desktop View](screenshots/desktop-view.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile-view.png)
+
+### Empty State
+![Empty State](screenshots/empty-state.png)
+
+### Error State
+![Error State](screenshots/error-state.png)
 
 ## Contributors
 
