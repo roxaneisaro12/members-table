@@ -1,4 +1,4 @@
-# Abanyamuryango – Members Directory
+# Abanyamuryango - Members Directory
 
 A responsive members directory built with React, Vite, Tailwind CSS, and TanStack Query. The application retrieves user information from the DummyJSON API and provides server-side pagination, sorting, search, and filtering.
 
@@ -25,7 +25,6 @@ A responsive members directory built with React, Vite, Tailwind CSS, and TanStac
 ## Getting Started
 
 1. Clone the repository.
-
 2. Install dependencies:
 
    ```bash
@@ -42,9 +41,7 @@ A responsive members directory built with React, Vite, Tailwind CSS, and TanStac
 
 ## API
 
-Data is retrieved from the DummyJSON Users API:
-
-[https://dummyjson.com/users](https://dummyjson.com/users)
+Data is retrieved from the [DummyJSON Users API](https://dummyjson.com/users).
 
 ## Responsive Design
 
@@ -52,18 +49,20 @@ The table uses a responsive layout with horizontal scrolling on smaller screens.
 
 ## Screenshots
 
-## Screenshots
-
 ### Desktop View
+
 ![Desktop View](screenshots/desktop-view.png)
 
 ### Mobile View
+
 ![Mobile View](screenshots/mobile-view.png)
 
 ### Empty State
+
 ![Empty State](screenshots/empty-state.png)
 
 ### Error State
+
 ![Error State](screenshots/error-state.png)
 
 ## Contributors
@@ -72,6 +71,6 @@ The table uses a responsive layout with horizontal scrolling on smaller screens.
 
 ## Project
 
-**Repository:** members-table
+**Repository:** [members-table](https://github.com/roxaneisaro12/members-table)
 
 **Branch:** members-table
